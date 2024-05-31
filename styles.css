@@ -1,0 +1,220 @@
+body {
+	height: 2000px;
+}
+
+html {
+	background-color: lightgray;
+}
+
+.top {
+	margin-bottom: 57px;
+	margin-top: 25px;
+	font-weight: bold;
+	margin-left: 215px;
+	size: 85px;
+}
+
+li {
+	font-size: 15px;
+	margin-right: 26px;
+	display: inline-block;
+	font: Roboto;
+}
+
+li:hover {
+	color: red;
+	cursor: pointer;
+}
+
+.word {
+    width: 100px;
+    height: 28px;
+    size: 55px;
+    color: #000000;	
+    font-weight: bold;
+    margin-left: 215px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.all {
+	text-align: center;
+}
+
+.content {
+	width: 360px;
+	height: 360px;
+	position: relative;
+	display: inline-block;
+}
+
+.content2 {
+	width: 360px;
+	height: 360px;
+	position: relative;
+	display: inline-block;
+}
+
+
+.content .bg-img {
+	width: 100%;
+}
+
+.content2 .bg-img {
+	width: 100%;	
+}
+
+.content h2 {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
+}
+
+.content2 h2 {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
+}
+
+.content div {
+	height: 170px;
+	padding-top: 70px;
+	padding-left: 40px;
+}
+
+.content2 div {
+	height: 170px;
+	padding-top: 70px;
+	padding-left: 40px;
+}
+
+.content p {
+	width: 240px;
+	margin-bottom: 10px;
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	line-height: 20px;
+}
+
+.content2 p {
+	width: 240px;
+	margin-bottom: 10px;
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	line-height: 20px;
+}
+
+.content .clock-icon {
+	width: 16px;
+	vertical-align: middle;
+}
+
+.content2 .clock-icon {
+	width: 16px;
+	vertical-align: middle;
+}
+
+.content span {
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	vertical-align: middle;
+}
+
+.content2 span {
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	vertical-align: middle;
+}
+
+.content3 {
+	width: 360px;
+	height: 360px;
+	position: relative;
+	display: inline-block;
+
+}
+
+.content3 .bg-img {
+	width: 100%;
+	
+}
+
+.content3 h2 {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: #FFFFFF;
+}
+
+.content3 div {
+	height: 170px;
+	padding-top: 70px;
+	padding-left: 40px;
+}
+
+.content3 p {
+	width: 240px;
+	margin-bottom: 10px;
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	line-height: 20px;
+}
+
+.content3 .clock-icon {
+	width: 16px;
+	vertical-align: middle;
+}
+
+
+.content3 span {
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+	vertical-align: middle;
+}
+
+div {
+	background-color: #FFFFFF;
+}
+
+.first-line {
+	width: 758px;
+	height: 430px;
+	display: inline-block;
+}
+
+.second-line {
+	width: 362px;
+	height: 212px;
+	display: inline-block;
+}
+
+.mdinare {
+	margin-top: 40px;
+}
+
+.tye {
+	margin-bottom: 40px;
+}
+
+.spilo {
+	margin-bottom: 40px;
+}
+
+.qalaqi {
+	margin-bottom: 190px;
+}
